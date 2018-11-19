@@ -1,6 +1,5 @@
 package arrays;
 import java.util.*;
-import java.math.*;
 public class arrays38 {
  public static void main(String[] args) {
   {
